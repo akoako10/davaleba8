@@ -1,0 +1,33 @@
+.flexbox {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    
+}
+ 
+.flexbox :nth-child(2) img {
+   margin-top: 200px;
+}
+
+
+
+
+
+
+
+
+
+img {
+    height: 450px;
+    width: 200px;
+}
+div {
+    text-align: center;
+}
+h2  {
+    margin-top: 5px;
+}
+h1 {
+    position: absolute;
+    font-size: 80px;
+}
